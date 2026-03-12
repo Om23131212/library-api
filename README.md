@@ -8,7 +8,7 @@ The API supports full **CRUD operations** for books.
 
 ## 🚀 Live API
 
-https://library-api-i-qu39.onrender.com
+https://library-api-1-qu39.onrender.com/
 
 ---
 
